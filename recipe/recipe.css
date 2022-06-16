@@ -1,0 +1,53 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.sec1{
+    background-color:aquamarine;
+    padding:20px;
+    margin:20px;
+    border:2px solid blanchedalmond;
+}
+
+.sec2{
+    height:auto;
+    width:500px;
+    margin:50px;
+    border:2px solid black;
+}
+
+.sec3{
+    
+    background-color:beige;
+    padding:20px;
+    margin:20px;
+    border:2px solid pink;
+}
+
+.sec4{
+    color:brown;
+    margin:10px;
+    
+}
+
+ul li{
+    margin:10px;
+    margin-left:30px;
+}
+
+.sec5{
+    color:brown;
+    margin:10px;
+}
+
+ol li{
+    margin:10px;
+    margin-left:30px;
+}
+
+.container{
+    
+    background-color:red;
+}
+
